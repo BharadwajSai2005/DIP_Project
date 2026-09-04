@@ -71,9 +71,3 @@ Note: On Windows the script uses winsound.Beep for alerts. On other OSes you wil
 - Move MII computation and the state machine logic into a small module so the logic can be unit-tested.
 - Add a short Jupyter notebook that steps through a sample video frame-by-frame and explains MII components visually.
 - Add scikit-learn to `requirements.txt` and pin versions for reproducibility.
-
-## License
-Add a LICENSE file or include license information here if you plan to publish or share this code more widely.
-
-## Contact
-If you have questions or improvements, open an issue or submit a pull request.
