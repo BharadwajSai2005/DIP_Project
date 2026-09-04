@@ -8,7 +8,7 @@ Crowd-Activity-All.avi
 
 A sample video bundled with the repo that the script uses by default. Place your own test video here or change the script input path.
 
-## crowd_monitor.py
+crowd_monitor.py
 
 The single main script / entry point. It:
 Loads the video (hard-coded to "Crowd-Activity-All.avi"),
